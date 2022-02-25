@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True declaration of the last affaires in Ireland shewing te late overthrowes given to the Irish rebels : sent over in two letters / the one from the Earle of Ormond, and the other ftom [sic] Sir Iohn Temple ; red in the House of Parliament, and ordered to bee printed, May foureteene 1642.</title>
+            <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63503</idno>
+            <idno type="STC">Wing T2669</idno>
+            <idno type="STC">ESTC R12415</idno>
+            <idno type="EEBO-CITATION">13800193</idno>
+            <idno type="OCLC">ocm 13800193</idno>
+            <idno type="VID">101928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101928)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True declaration of the last affaires in Ireland shewing te late overthrowes given to the Irish rebels : sent over in two letters / the one from the Earle of Ormond, and the other ftom [sic] Sir Iohn Temple ; red in the House of Parliament, and ordered to bee printed, May foureteene 1642.</title>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Temple, John, Sir, 1600-1677.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.B. for I. Franke, and are to be sould at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered that these letters forthwith bee printed; H. Elssing, Cler. Parl. D. Com."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Sources.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101928:1"/>
+            <pb facs="tcp:101928:1"/>
+            <p>A True Declarati<g ref="char:EOLhyphen"/>on of the laſt affaires in <hi>Ireland,</hi> Shewing the late overthrowes given to the IRISH Rebels.</p>
+            <p>Sent over in two Letters, the one from the Earle of <hi>Ormond,</hi> and the other ftom Sir <hi>Iohn Temple,</hi> Red in the Houſe of <hi>Parliament,</hi> and ordered to bee Printed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>May</hi> foureteene 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered that theſe Letters forthwith bee PRINTED.</p>
+                        <closer>
+                           <signed>H. Elſsing Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London Printed, by <hi>R. B.</hi> for <hi>I. Franke,</hi> and are to be ſould at his Shop, next dore to the Kings Head in <hi>Fleet-Streete.</hi> 1642.</p>
+            <pb facs="tcp:101928:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101928:2"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SInce the laſt Victory it pleaſed God to give His Maje<g ref="char:EOLhyphen"/>ſties Forces, under the Conduct of the Earle of <hi>Ormond</hi> againſt the Rebels. We have heard little of them here-abouts, Their maine power is certainly broken, and the peo<g ref="char:EOLhyphen"/>ple ſo diſperſed as they will not without great difficulty bee drawn together again in any conſiderable body. Our men are now grown to terrible unto them as the quit for the moſt part their places of ſtrength if they doe but heare any part of our Army marching towards them; of which my Lord <hi>Liſle</hi> hath lately had the experience for his Lorſhip ſuddainely after his arrivall here, deſirous to put himſelfe into action, undertooke the reliefe of my Lady of <hi>Offaly,</hi> and ſome other Caſtles in thoſe parts. He had the chiefe Commands, and being accom<g ref="char:EOLhyphen"/>panied with Sir <hi>Charles Coote,</hi> ſome troopes of Horſe out of his own Regiment, and two troopes of Dragons went on up<g ref="char:EOLhyphen"/>on the moſt deſperate peece of ſervice that hath <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t yet beene undertaken; All his friends there were much againſt his Lordſhips going apprehending much hazard to his Perſon in the Journey. For indeed the Rebels were in great numbers in thoſe parts and the paſſages through the Bogges and Woods ſo difficult as it was verily believed they would have (as with great advantage they might have done) made great oppoſiti<g ref="char:EOLhyphen"/>on againſt him; But it ſeemes they durſt not adventure to make good even thoſe barricadoes and workes which they had made to impeach his paſſage over Rivers, and other ſleights which hee paſſed without any encounter, untill hee came to <hi>Philips</hi> Towne a place of very difficultneſſe, by rea<g ref="char:EOLhyphen"/>ſon of the Bogs on every ſide<g ref="char:punc">▪</g> when they came, there, they found the Town abandoned, but the Fort kept by the Rebels, they reſolve to aſſault it and ſo part the Dragons on foote;
+<pb facs="tcp:101928:3"/>
+The Rebls entertained them for 2. houres with their ſhot, and S. <hi>Charles Coote</hi> thinking he ſhould do no good upon it, till the night came, when he intended to goe on with all his men and make a generall aſſault, our men ſeeing ſome of their fellows wounded, were impatient to attend any longer, ſome of got to the Spikeholes<g ref="char:punc">▪</g> out of which the Rebels ſhot and put in their Muskets to ſhoot at them: others having Crowe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Iron got to the Port in a litle time, and ſo made the Rebels yeeld preſently, without any condition, their Captaines was taken and ſent up hither, and many of them hang'd. From thence having ſome two Miles to my Lady of <hi>Offaly,</hi> which was over a narrow Cauſey thorough a Bog, they cauſed their Dragon to make good the way till the Horſes went and re<g ref="char:EOLhyphen"/>lieved the Lady of <hi>Offaly,</hi> whom they found in great diſtreſſe, but ſo well provided her, as it ſeems her Ladiſhip intends ſtill to abide in her Caſtle, So they returned burning and ſpoyling all the Towns belonging to the Rebels in their way back, and came to termine a town of great importance within 20. miles of this Citie, which was defended by the Lords of the Pale. But their Lordſhips as it ſeemes were retired and they found ſome three or foure hundred men in it, they preſently bee ſet the towne about the Walls, and reſolved to take it by aſſault, but one of the gates being not very ſtrong, a troop of Horſe found firſt entrance there which the Rebels perceiving ran preſently out the other way and were purſued by them and many cut off; My Lord <hi>Liſle</hi> as it ſeemes, likes the ſervice and the Country ſo well, as hee reſolves there to abide by it, and hath ſent ſome propoſitions to the Lords Iuſtices, to have a Regiment ſent down to him wherewith they purpoſe to do great ſervice by the bleſſing of God in thoſe parts, as I hope they will, the Lords of the Pale lying in the <hi>Navan,</hi> (ſince the writing of this I heare the Lords of the Pale have quitted the <hi>Navan</hi> and burnt it,) which after their manner they have for<g ref="char:EOLhyphen"/>tified, it is within 7. Miles of <hi>Tryme,</hi> and there they are, as it is ſaid, with 2000. men.</p>
+            <p>
+               <pb facs="tcp:101928:3"/>
+This buſineſſe received a great debate the laſt night at the Boord<g ref="char:punc">▪</g> and though ſeverall of the lords were of opinion to recall them, yet at length it was carried by pluralitie of voi<g ref="char:EOLhyphen"/>ces, to ſend downe more forces to them, and it is reſolved lieutenant Collonell Gibſon ſhall march towards them to morrow with 1200. foot, and Captaine Sidneyes Horſe troope, and there remaine under the command of my Lord Leſle, who<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I am confident will give a very good accompt of himſelfe in that place, for I aſſure your lordſhip, he hath carried himſelfe very gallantly and very diſcreetly in this action.</p>
+            <p>There came laſt night two letters unto the Lords Juſtices from the Lord Conway at the Newry, advertiſing their Lordſhips, that he and Generall Major Monroe were mar<g ref="char:EOLhyphen"/>ched downe thither with 3000. men, and had taken in that place, and intended to goe finde out the Rebels, who they heard were gathered in ſome numbers about the Countie of Armagh; Sir Henry Tichbourne hath likewiſe taken in Car<g ref="char:EOLhyphen"/>lingford, and daily makes great deſtruction among the roagues in all thoſe quarters.</p>
+            <p>By letters which came lately from the Ea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le of Saint Albaines, wee underſtand that the towne of Galway ſince their defection hath made ſome attempts upon his Maieſties Forts there, as likewiſe upon one of his Majeſties ships that came into that Harbour, in her paſſage towards Limberie, whether ſhe was ſent to relieve the fort there,, but without any ſucceſſe, his Lordſhip is come downe with 1500. men within 4. miles of the towne, and gives ſuch interruption to their Supplies, which they expect out of the Countrey, as in his letter he ſpeakes as if hee hoped in a very ſhort, time to draw in them upon ſubmiſſion. His Lordſhip carries himſelf very well there, and continues to doe very good ſervice for his Majeſtie in thoſe parts.</p>
+            <p>My Lord Rannelagh hath likewiſe delivered Athoue from the ſeige, and is at libertie to walke abroad, which hee
+<pb facs="tcp:101928:4"/>
+cannot doe much, till the forces deſigned for Conaght arive.</p>
+            <p>Thus your Lordſhip ſees how it pleaſeth God to bleſſe us in all our undertakings here. We hope thorough your Lord<g ref="char:EOLhyphen"/>ſhips care and great zeale for the proſperitie of this ſervice, we ſhall ſuddenly receive the long expected ſupplies of men, money, and munition and match, by want of which we are now in that condition here, as our men muſt lye ſtill, as being altogether diſabled to march out before the forces deſigned for this place doe arive, we have not beene failing particu<g ref="char:EOLhyphen"/>larly to repreſent unto your lordſhip our moſt preſſing neceſ<g ref="char:EOLhyphen"/>ſities, and the advantages the ſtate of England will have by a rigourous proſecution of the warre here this Summer. If we let ſlip this opportunitie, while the Rebbels want armes and Munition, remain ſo extremely dejected and diſanimated by our late victories, and give them ſpace to breath while winter ſhe ſhall againe put this whole Kingdome to a hazzard, or at leaſt trebble the charge it would now coſt for the recoverie of it, and occaſion the perriſhing of multitudes of our owne ſouldiers, the extremities they muſt then neceſſarily endure. But I ſhall adde no more, but that I am really</p>
+            <closer>
+               <dateline>
+                  <hi>Dublin</hi> in <date>May 5. 1642.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble and moſt faithfull ſervant <hi>I. Temple.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>May 14. 1642.</date>
+               </dateline>
+            </opener>
+            <p>Ordered that this Letter be forthwith printed.</p>
+            <closer>
+               <signed>H. Elſyng. Cler. Parl. de Com.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:101928:4"/>
+            <opener>
+               <salute>My moſt honoured Lord,</salute>
+            </opener>
+            <p>IN my laſt I acquainted your Lordſhip with a deſigne then undertaken by my Lord Liſle, for the reliefe of the Lady Ofaly, which his Lordſhip hath proſecuted with ſo much judgment and good ſucceſſe, that not only her Ladyſhip is put into a condition of ſubſiſtance, in deſpight of what the Rebbels were or are like to be able to doe, but up<g ref="char:EOLhyphen"/>on intelligence given him, he hath approved his firſt intentions, and taken in a Towne called Trim, from whence his Lordſhip ſent hither a partie of Horſe, deſiring to be inabled to follow his good fortune, by the ſending to him one troope of Horſe more, and 1200. foote, which is condeſcended unto, and the troopes will be ſent home on Saturday next, no man can obſerve his gallant inclinations, attended with his ſuitable events, with greater delight than I doe, Nor ſhall be more ready to ſerve him to Ward accompliſhment of all his undertakings.</p>
+            <p>I am bould to ſend unto your Lordſhip a Copie of the Commiſsion, by which I have beene intru<g ref="char:EOLhyphen"/>ſted by your Lordſhip with the command of their Army; which as is moſt fit will determine upon your arrivall; but I obſerve by the commiſsion that not only my command over the army, but my place of Lievtenant Generall will then likewiſe be at an end whereof I thought fit to give your Lordſhip
+<pb facs="tcp:101928:5"/>
+notice and to ſend unto you a drought of a new Commiſsion varying nothing in ſubſtance from the former, ſaying that where the other was to bee of force, no longer then during your Lordſhips abſence, this which I now deſire (if it may ſtand with your good pleaſure) hath no ſuch limitation, but this I referre to your Lordſhips better judgement, and to inlarge or qualifie this draught as you ſhall thinke fitteſt, and moſt conduceing to the advancement of the Kings ſervice whereunto I ſhall alwayes limit my deſires, who am</p>
+            <closer>
+               <dateline>Dublin <date>the 5. of May, 1642.</date>
+               </dateline>
+               <signed>Your Lordſhips faithfull and humble ſervant <hi>Ormond Oſſory.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>May 14. 1642.</date>
+               </dateline>
+            </opener>
+            <p>Ordered that this Letter be forthwith printed.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. de Com.</signed>
+            </closer>
+            <pb facs="tcp:101928:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
